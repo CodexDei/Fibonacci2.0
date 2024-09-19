@@ -42,7 +42,7 @@ public class pruebaFibo {
                             
                             if (j == 30) {
                                
-                                mensaje.append(Fibo.generarFibo(i) + "\n");
+                                mensaje.append("\n");
                                 j = 15;
                             }
                             
